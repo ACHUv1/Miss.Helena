@@ -31,7 +31,7 @@ CLICK THIS LOGO TO JOIN OUR SUPPORT GROUP🎗️
   <a href="https://chat.whatsapp.com/FJZ00oZignw25kjLELXWKu" target="blank"><img align="center" src="https://i.imgur.com/URkrOnx.png" alt="kyrie.baran" height="200" width="300" /></a>
 </p>
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ACHUv1/Miss.Helena)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template°https://github.com/ACHUv1/Miss.Helena)
 
 
 
